@@ -176,4 +176,3 @@ frontend/Dockerfile
 backend-drf/.env.docker
 backend-drf/.env.production
 backend-drf/Dockerfile
-docker-compose.yml
